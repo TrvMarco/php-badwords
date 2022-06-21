@@ -18,6 +18,5 @@
     <p>
         <?php echo strlen($text) ?>
     </p>
-
 </body>
 </html>
